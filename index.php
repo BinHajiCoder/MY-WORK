@@ -2,7 +2,7 @@
     session_start();
 ?>
 <!doctype html>
-<html lang="en">
+<html>
 <head>
             
              <?php include 'pages/headerLink.php';?>
